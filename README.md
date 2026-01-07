@@ -1,4 +1,4 @@
 
-# Hello! I'm dashlinescore.
+# Hello! I'm dashlinescore
 
 Self-studying 😊
